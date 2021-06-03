@@ -1,0 +1,13 @@
+.a{
+    font-family:arial helvetica serif;
+    text-decoration:line-through;
+    height:50%;
+    width:50%;
+    background-color:navy;
+}
+
+div{
+    height:50px;
+    width:400px;
+    background-color:salmon;
+}
